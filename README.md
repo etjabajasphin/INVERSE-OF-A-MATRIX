@@ -7,8 +7,7 @@ To write a python program to find the inverse of a matrix
 ## Algorithm:
 ### Step1 : 
 ### Step 2: 
-### Step 3: 
-### Step 4: 
+
 
 ## Program:
 ## Output:
